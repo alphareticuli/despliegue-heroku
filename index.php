@@ -7,18 +7,19 @@
 <body>
 <h1> Esto es un despliegue en heroku </h1>
 <p>
-	AÒade un p·rrafo, y haz un pull request. <br>
-	Fdo: VÌctor<br>
-	(Este repo est· en <code>https://github.com/vjfernandez/despliegue-heroku</code>)
+	A√±ade un p√°rrafo, y haz un pull request. <br>
+	Fdo: V√≠ctor<br>
+	(Este repo est√° en <code>https://github.com/vjfernandez/despliegue-heroku</code>)
 </p>
 
-<!-- AÒade otro p·rrafo aquÌ con un saludo y tu nombre sin apellidos 
+<!-- A√±ade otro p√°rrafo aqu√≠ con un saludo y tu nombre sin apellidos 
      y haz un pull request
-	 No aÒadas m·s ficheros al repo antes del pull request.
+	 No a√±adas m√°s ficheros al repo antes del pull request.
 	 
-	 Los ficheros que necesite heroku los creas en tu git, despuÈs del pull request.
+	 Los ficheros que necesite heroku los creas en tu git, despu√©s del pull request.
 -->
 
+<p>Feliz Navidad!!!</p>
 
 </body>
 </html>
